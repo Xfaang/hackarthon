@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hack.zacheta.art.pl/hackarthon/en/blog</id>
+    <id>https://hack.zacheta.art.pl/en/blog</id>
     <title>Open Zachęta Blog</title>
     <updated>2022-09-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hack.zacheta.art.pl/hackarthon/en/blog"/>
+    <link rel="alternate" href="https://hack.zacheta.art.pl/en/blog"/>
     <subtitle>Open Zachęta Blog</subtitle>
-    <icon>https://hack.zacheta.art.pl/hackarthon/en/favicon_io/favicon.ico</icon>
+    <icon>https://hack.zacheta.art.pl/en/favicon_io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[3d]]></title>
         <id>/2022/09/22/3d</id>
-        <link href="https://hack.zacheta.art.pl/hackarthon/en/blog/2022/09/22/3d"/>
+        <link href="https://hack.zacheta.art.pl/en/blog/2022/09/22/3d"/>
         <updated>2022-09-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[https://sketchfab.com/3d-models/vis-a-vis-iphone-3d-scan-polycam-08b2f37ada82436086279fc9b2b15fb0]]></summary>
         <content type="html"><![CDATA[<p><a href="https://sketchfab.com/3d-models/vis-a-vis-iphone-3d-scan-polycam-08b2f37ada82436086279fc9b2b15fb0" target="_blank" rel="noopener noreferrer">https://sketchfab.com/3d-models/vis-a-vis-iphone-3d-scan-polycam-08b2f37ada82436086279fc9b2b15fb0</a></p>]]></content>
@@ -18,10 +18,10 @@
     <entry>
         <title type="html"><![CDATA[Przykładowe skorzystania z API]]></title>
         <id>przykladowe-skorzystania-z-api</id>
-        <link href="https://hack.zacheta.art.pl/hackarthon/en/blog/przykladowe-skorzystania-z-api"/>
+        <link href="https://hack.zacheta.art.pl/en/blog/przykladowe-skorzystania-z-api"/>
         <updated>2022-09-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[W dokumentacji pod linkiem przykłady jest dostępnych kilka przykładowych kodów źródłowych korzystających z Zachęta API.]]></summary>
-        <content type="html"><![CDATA[<p>W dokumentacji pod linkiem <a href="/hackarthon/en/docs/przykładowe-zastosowania">przykłady</a> jest dostępnych kilka przykładowych kodów źródłowych korzystających z Zachęta API.</p><div class="theme-admonition theme-admonition-tip alert alert--success admonition_k4Dd"><div class="admonitionHeading_AIsy"><span class="admonitionIcon_mCD7"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_RZlH"><p>Wykorzystane technologie to jedynie przykład. Nie należy się sugerować, jest pełna dowolność.</p></div></div><p>W przypadku, gdyby czegokowiek brakowało - prosimy o skontaktowanie się z mentorami lub organizatorami i postaramy się uzupełnić dokumentację. Dziękujemy za wyrozumiałość.</p>]]></content>
+        <content type="html"><![CDATA[<p>W dokumentacji pod linkiem <a href="/en/docs/przykładowe-zastosowania">przykłady</a> jest dostępnych kilka przykładowych kodów źródłowych korzystających z Zachęta API.</p><div class="theme-admonition theme-admonition-tip alert alert--success admonition_k4Dd"><div class="admonitionHeading_AIsy"><span class="admonitionIcon_mCD7"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_RZlH"><p>Wykorzystane technologie to jedynie przykład. Nie należy się sugerować, jest pełna dowolność.</p></div></div><p>W przypadku, gdyby czegokowiek brakowało - prosimy o skontaktowanie się z mentorami lub organizatorami i postaramy się uzupełnić dokumentację. Dziękujemy za wyrozumiałość.</p>]]></content>
         <author>
             <name>Admin</name>
         </author>
@@ -31,7 +31,7 @@
     <entry>
         <title type="html"><![CDATA[Niezbędne informacje]]></title>
         <id>niezbędne-informacje</id>
-        <link href="https://hack.zacheta.art.pl/hackarthon/en/blog/niezbędne-informacje"/>
+        <link href="https://hack.zacheta.art.pl/en/blog/niezbędne-informacje"/>
         <updated>2022-09-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hackathon potrwa 5 dni, a w tym czasie wszyscy uczestnicy będą mieli do dyspozycji mentorów.]]></summary>
         <content type="html"><![CDATA[<p>Hackathon potrwa 5 dni, a w tym czasie wszyscy uczestnicy będą mieli do dyspozycji <a href="https://hackarthon.pl/pl/mentorzy/" target="_blank" rel="noopener noreferrer">mentorów</a>.</p><p>Niezbędne zasoby</p><ul><li><a href="https://docs.google.com/document/d/1ut392VJllwiy2O3S8Y4PabuarJwo-ac8AONmufrXwPg/edit" target="_blank" rel="noopener noreferrer">MoSCoW - must-have or should-have, could-have or won\'t-have (wishes)</a></li><li><a href="https://docs.google.com/document/d/1Z2GCUnWMAg960x5Px6laLIziCFVR_5_flnOr0yUaJcw/edi" target="_blank" rel="noopener noreferrer">O zasobach z kolekcji Zachety (ABOUT_RESOURCES)</a></li><li><a href="https://drive.google.com/drive/folders/1Lo6LKiaG3CNC6P44Vcmc78RTum_Em6kN" target="_blank" rel="noopener noreferrer">Ścieżki tematyczne (wybrane zasoby, gdrive)</a></li><li><a href="https://drive.google.com/drive/folders/1qjI6F6EbD_BWWXGGhfkcl5Bi_-SDJw08" target="_blank" rel="noopener noreferrer">Materiały dla uczestników (google-drive)</a></li><li><a href="https://wcag.lepszyweb.pl/" target="_blank" rel="noopener noreferrer">Wytyczne WCAG</a></li><li><a href="https://docs.google.com/document/d/1Vg-h1JUzN4EydLFmGD0hVeKigqUKlqgV9SfL9DfrGq4/edit" target="_blank" rel="noopener noreferrer">Kryteria punktacji</a></li><li><a href="https://docs.google.com/presentation/d/136SF2reXou75C-DFJs0KFrDDCe94j8k6/edit#slide=id.p1" target="_blank" rel="noopener noreferrer">Szablon prezentacji finałowej</a></li><li><a href="https://us02web.zoom.us/meeting/register/tZcpf-2upzIpHNXKLvxBBCX-PLmYB5x7Rr_u" target="_blank" rel="noopener noreferrer">Link do spotkań na ZOOM</a></li></ul>]]></content>
@@ -44,7 +44,7 @@
     <entry>
         <title type="html"><![CDATA[Rozpoczęcie zapisów na hack(art)on]]></title>
         <id>hackathon-start</id>
-        <link href="https://hack.zacheta.art.pl/hackarthon/en/blog/hackathon-start"/>
+        <link href="https://hack.zacheta.art.pl/en/blog/hackathon-start"/>
         <updated>2022-09-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Na stronie Hackarthon-u dostepnę są terminy zapisów.]]></summary>
         <content type="html"><![CDATA[<p>Na stronie <a href="https://hackarthon.pl/" target="_blank" rel="noopener noreferrer">Hackarthon</a>-u dostepnę są terminy zapisów.</p><div class="theme-admonition theme-admonition-tip alert alert--success admonition_k4Dd"><div class="admonitionHeading_AIsy"><span class="admonitionIcon_mCD7"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_RZlH"><p>Obserwuj Narodową Galerię Sztuki w mediach społecznościowych, by nie przegapić żadnej informacji.</p></div></div>]]></content>

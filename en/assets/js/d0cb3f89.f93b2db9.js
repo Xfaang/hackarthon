@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkoz_oai=self.webpackChunkoz_oai||[]).push([[6721],{7965:a=>{a.exports=JSON.parse('{"label":"organizacja","permalink":"/hackarthon/en/blog/tags/organizacja","allTagsPath":"/hackarthon/en/blog/tags","count":1}')}}]);

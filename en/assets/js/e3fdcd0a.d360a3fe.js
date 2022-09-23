@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkoz_oai=self.webpackChunkoz_oai||[]).push([[6102],{8712:o=>{o.exports=JSON.parse('{"permalink":"/hackarthon/en/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

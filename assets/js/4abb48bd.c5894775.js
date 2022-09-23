@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoz_oai=self.webpackChunkoz_oai||[]).push([[5484],{5153:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/organizacja","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

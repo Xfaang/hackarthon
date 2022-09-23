@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoz_oai=self.webpackChunkoz_oai||[]).push([[7441],{2634:e=>{e.exports=JSON.parse('{"label":"mentorzy","permalink":"/en/blog/tags/mentorzy","allTagsPath":"/en/blog/tags","count":1}')}}]);

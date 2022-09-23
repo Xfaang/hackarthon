@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Open Zachęta Blog</title>
-        <link>https://hack.zacheta.art.pl/hackarthon/blog</link>
+        <link>https://hack.zacheta.art.pl/blog</link>
         <description>Open Zachęta Blog</description>
         <lastBuildDate>Thu, 22 Sep 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>pl</language>
         <item>
             <title><![CDATA[3d]]></title>
-            <link>https://hack.zacheta.art.pl/hackarthon/blog/2022/09/22/3d</link>
+            <link>https://hack.zacheta.art.pl/blog/2022/09/22/3d</link>
             <guid>/2022/09/22/3d</guid>
             <pubDate>Thu, 22 Sep 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[https://sketchfab.com/3d-models/vis-a-vis-iphone-3d-scan-polycam-08b2f37ada82436086279fc9b2b15fb0]]></description>
@@ -18,17 +18,17 @@
         </item>
         <item>
             <title><![CDATA[Przykładowe skorzystania z API]]></title>
-            <link>https://hack.zacheta.art.pl/hackarthon/blog/przykladowe-skorzystania-z-api</link>
+            <link>https://hack.zacheta.art.pl/blog/przykladowe-skorzystania-z-api</link>
             <guid>przykladowe-skorzystania-z-api</guid>
             <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[W dokumentacji pod linkiem przykłady jest dostępnych kilka przykładowych kodów źródłowych korzystających z Zachęta API.]]></description>
-            <content:encoded><![CDATA[<p>W dokumentacji pod linkiem <a href="/hackarthon/docs/przykładowe-zastosowania">przykłady</a> jest dostępnych kilka przykładowych kodów źródłowych korzystających z Zachęta API.</p><div class="theme-admonition theme-admonition-tip alert alert--success admonition_k4Dd"><div class="admonitionHeading_AIsy"><span class="admonitionIcon_mCD7"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_RZlH"><p>Wykorzystane technologie to jedynie przykład. Nie należy się sugerować, jest pełna dowolność.</p></div></div><p>W przypadku, gdyby czegokowiek brakowało - prosimy o skontaktowanie się z mentorami lub organizatorami i postaramy się uzupełnić dokumentację. Dziękujemy za wyrozumiałość.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>W dokumentacji pod linkiem <a href="/docs/przykładowe-zastosowania">przykłady</a> jest dostępnych kilka przykładowych kodów źródłowych korzystających z Zachęta API.</p><div class="theme-admonition theme-admonition-tip alert alert--success admonition_k4Dd"><div class="admonitionHeading_AIsy"><span class="admonitionIcon_mCD7"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_RZlH"><p>Wykorzystane technologie to jedynie przykład. Nie należy się sugerować, jest pełna dowolność.</p></div></div><p>W przypadku, gdyby czegokowiek brakowało - prosimy o skontaktowanie się z mentorami lub organizatorami i postaramy się uzupełnić dokumentację. Dziękujemy za wyrozumiałość.</p>]]></content:encoded>
             <category>openzacheta</category>
             <category>api</category>
         </item>
         <item>
             <title><![CDATA[Niezbędne informacje]]></title>
-            <link>https://hack.zacheta.art.pl/hackarthon/blog/niezbędne-informacje</link>
+            <link>https://hack.zacheta.art.pl/blog/niezbędne-informacje</link>
             <guid>niezbędne-informacje</guid>
             <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hackathon potrwa 5 dni, a w tym czasie wszyscy uczestnicy będą mieli do dyspozycji mentorów.]]></description>
@@ -38,7 +38,7 @@
         </item>
         <item>
             <title><![CDATA[Rozpoczęcie zapisów na hack(art)on]]></title>
-            <link>https://hack.zacheta.art.pl/hackarthon/blog/hackathon-start</link>
+            <link>https://hack.zacheta.art.pl/blog/hackathon-start</link>
             <guid>hackathon-start</guid>
             <pubDate>Thu, 08 Sep 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Na stronie Hackarthon-u dostepnę są terminy zapisów.]]></description>

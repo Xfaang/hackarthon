@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoz_oai=self.webpackChunkoz_oai||[]).push([[2963],{7161:a=>{a.exports=JSON.parse('{"label":"api","permalink":"/en/blog/tags/api","allTagsPath":"/en/blog/tags","count":1}')}}]);
